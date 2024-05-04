@@ -1,0 +1,31 @@
+file Explorer: 
+    >> git init
+    >> git remote add origin <Github repo https link>
+
+
+VS code Terminal:
+    >> npm init 
+    >> npm i create i create-react-app
+    >> npx create-react-app bookmyshowclone
+
+
+Start/Run the Application:
+    >> cd bookmyshowclone 
+    >> npm Start
+
+Tailwind: 
+    >> npm install -D tailwindcss postcss autoprefixer
+    >> npx tailwindcss init -p 
+
+React-Slick:
+    >> npm install react-slick
+    >> npm install slick-carousel
+
+Axios:
+    >> npm i axios 
+
+Headless UI:
+    >> npm install @headlessui/react
+
+React-Icons:
+    >> npm install react-icons
