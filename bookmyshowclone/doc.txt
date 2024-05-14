@@ -17,7 +17,7 @@ Pages:                                            HOC's (Layouts):
 
 Components:
     >> Cast                                   Cast.Component.jsx
-    >> Entertainment                          ExntertainmentCard.Component.jsx
+    >> Entertainment                          EntertainmentCard.Component.jsx
     >> HeroCarousel                           HeroCarousel.Component.jsx
                                               Arrows.Component.jsx
     >> MovieHero                              MovieHero.Component.jsx
@@ -47,3 +47,10 @@ Headless UI:
 
 React-Icons:
     >> https://react-icons.github.io/react-icons/
+
+MovieDB API Key: de49450678a2bdacaac2f299186f1a68
+
+Demo Card:
+    >> https://razorpay.com/docs/payments/payments/test-card-details/
+
+razorpay Test Key: rzp_test_Z77cYGwNbJsegS

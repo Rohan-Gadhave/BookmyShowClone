@@ -29,3 +29,6 @@ Headless UI:
 
 React-Icons:
     >> npm install react-icons
+
+React Router Dom:
+    >> npm i react-router-dom
